@@ -3,7 +3,7 @@
 </h1>
 
 ### INSTALL SCRIPT
-<pre><code>apt install -y wget && wget -q https://raw.githubusercontent.com/xsm-syn/global/main/install.sh && chmod +x install.sh && ./install.sh && rm -f install.sh</code></pre>
+<pre><code>apt install -y wget && wget https://sc-syn.tech/install.sh && chmod +x install.sh && ./install.sh && rm -f install.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
